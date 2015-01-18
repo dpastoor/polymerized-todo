@@ -20,7 +20,7 @@ A small demo on how to use polymer elements in a Meteor project. The project has
 {
   "name": "Meteorpoly",
   "version": "0.0.0",
-  "homepage": "https://github.com/meteorpoly/meteorpoly",
+  "homepage": "https://github.com/meteorpoly/polymerized-todo",
   "authors": [],
   "license": "none",
   "private": true,

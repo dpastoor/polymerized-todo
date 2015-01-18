@@ -1,6 +1,6 @@
 # polymerized-todo
 
-A small demo on how to use polymer elements / Webcomponents in a Meteor project. The project has been tested on Android Tablets and Phones and in the Browser (Chrome / Firefox).
+A small demo on how to use polymer elements in a Meteor project. The project has been tested on Android Tablets and Phones and in the Browser (Chrome / Firefox).
 
 # Following packages are used
 

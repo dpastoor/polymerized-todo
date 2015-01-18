@@ -2,6 +2,10 @@
 
 A small demo on how to use polymer elements in a Meteor project. The project has been tested on Android Tablets and Phones and in the Browser (Chrome / Firefox).
 
+# Here a preview of the changed Todo app
+
+![alt tag](https://raw.github.com/meteorpoly/polymerized-todo/master/demoscreenshot.png)
+
 # Following packages are used
 
   - meteor-platform
@@ -47,8 +51,5 @@ A small demo on how to use polymer elements in a Meteor project. The project has
   }
 }
 ```
-# Here a preview of the changed Todo app
-
-![alt tag](https://raw.github.com/meteorpoly/polymerized-todo/master/demoscreenshot.png)
 
 License: MIT

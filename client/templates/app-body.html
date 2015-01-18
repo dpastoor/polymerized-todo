@@ -1,4 +1,10 @@
 <template name="appBody">
+  <style>
+    paper-button{
+      margin-top: 20px;
+      color: #ffffff;
+    }
+  </style>
   <div id="container" class="{{menuOpen}} {{cordova}}">
 
     <section id="menu">
@@ -17,10 +23,8 @@
           {{/if}}
         </div>
       {{else}}
-        <div class="btns-group">
-          <a href="{{pathFor 'signin'}}" class="btn-secondary">Sign In</a>
-          <a href="{{pathFor 'join'}}" class="btn-secondary">Join</a>
-        </div>
+          <a href="{{pathFor 'signin'}}" class=""><paper-button raised="" class="colored" role="button" tabindex="0">Sign-In</paper-button></a>
+          <a href="{{pathFor 'join'}}" class=""><paper-button raised="" class="colored" role="button" tabindex="0">Join</paper-button></a>
       {{/if}}
 
       <div class="list-todos">

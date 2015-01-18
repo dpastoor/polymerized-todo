@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+dump
+packages/schnie:vulcanize/
+public/components

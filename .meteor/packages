@@ -9,8 +9,6 @@ insecure
 less
 iron:router
 accounts-password
-ecwyne:polymer-elements
-ecwyne:polymer
 differential:vulcanize
 aldeed:autoform
 aldeed:simple-schema
